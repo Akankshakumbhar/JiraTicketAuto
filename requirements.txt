@@ -1,0 +1,4 @@
+duckdb # Replace with the version you need, or omit for the latest
+pandas
+numpy
+streamlit
